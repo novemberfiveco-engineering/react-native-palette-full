@@ -3,7 +3,7 @@ declare module 'react-native-palette-full' {
     vibrant = 'Vibrant',
     vibrantDark = 'Vibrant Dark',
     vibrantLight = 'Vibrant Light',
-    muted = 'Video',
+    muted = 'Muted',
     mutedDark = 'Muted Dark',
     mutedLight = 'Muted Light',
   }
